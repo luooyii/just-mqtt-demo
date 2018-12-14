@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a51e69ffbfbf7c1bd62f7758a3723fcc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d54058a79e80225fb6149d0ddda57194\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\0b9b72b07a8cd85f0ff43a7d6e07b11a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7b695d2ccdaf6673b0ca79877b8bbabb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7d7a766273aa3adc84b53189faec5950\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fe9991aa6c182fc686bec17bd7b7592a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\112474d64089cb3a064b88ed35181228\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\86a5e18b72407ed050d7039946247c8f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a57f281e06f06af8a96852bf802cac1f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bb98c12156ce824877733dc151c8e7aa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\31f729541ff61dd0955da19b90edffc4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a28b0a87fa0f16ba252e51c2072a61f4\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.INTERNET
+ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:11:22-64
+application
+ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:13:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d54058a79e80225fb6149d0ddda57194\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d54058a79e80225fb6149d0ddda57194\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:19:9-40
+activity#edu.just.mqtt.MqttActivity
+ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:24:27-74
+service#org.eclipse.paho.android.service.MqttService
+ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:28:9-29:19
+	android:name
+		ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml:28:18-77
+uses-sdk
+INJECTED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a51e69ffbfbf7c1bd62f7758a3723fcc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a51e69ffbfbf7c1bd62f7758a3723fcc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d54058a79e80225fb6149d0ddda57194\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d54058a79e80225fb6149d0ddda57194\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\0b9b72b07a8cd85f0ff43a7d6e07b11a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\0b9b72b07a8cd85f0ff43a7d6e07b11a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7b695d2ccdaf6673b0ca79877b8bbabb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7b695d2ccdaf6673b0ca79877b8bbabb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7d7a766273aa3adc84b53189faec5950\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7d7a766273aa3adc84b53189faec5950\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fe9991aa6c182fc686bec17bd7b7592a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fe9991aa6c182fc686bec17bd7b7592a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\112474d64089cb3a064b88ed35181228\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\112474d64089cb3a064b88ed35181228\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\86a5e18b72407ed050d7039946247c8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\86a5e18b72407ed050d7039946247c8f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a57f281e06f06af8a96852bf802cac1f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a57f281e06f06af8a96852bf802cac1f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bb98c12156ce824877733dc151c8e7aa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bb98c12156ce824877733dc151c8e7aa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\31f729541ff61dd0955da19b90edffc4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\31f729541ff61dd0955da19b90edffc4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a28b0a87fa0f16ba252e51c2072a61f4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] D:\Dev\BuildTools\Gradle\gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a28b0a87fa0f16ba252e51c2072a61f4\AndroidManifest.xml:20:5-44
+INJECTED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Android\MQTT\app\src\main\AndroidManifest.xml
